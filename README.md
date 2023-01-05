@@ -4,7 +4,7 @@ This is a tool can be used to find the login /  admin panel of the websites.
 ### Installation and Usage
 `git clone https://github.com/shivnathtathe/LOGIN_FIND`
 
-`ls`
+```ls```
 
 `python3 setup.py`
 
